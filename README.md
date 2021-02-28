@@ -1,5 +1,7 @@
 # deepmerge
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/eartharoid/deep-merge/Test?label=Test&logo=github&style=flat-square)
+
 Simple deep object merging for NodeJS.
 
 ## Installation
