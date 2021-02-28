@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eartharoid/deepmerge.git"
+    "url": "git+https://github.com/eartharoid/deep-merge.git"
   },
   "keywords": [
     "deepmerge",
@@ -20,9 +20,9 @@
   "author": "eartharoid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eartharoid/deepmerge/issues"
+    "url": "https://github.com/eartharoid/deep-merge/issues"
   },
-  "homepage": "https://github.com/eartharoid/deepmerge#readme",
+  "homepage": "https://github.com/eartharoid/deep-merge#readme",
   "devDependencies": {
     "ava": "^3.15.0",
     "eslint": "^7.21.0",
