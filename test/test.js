@@ -9,8 +9,9 @@ test('merge 1', t => {
 			thing1: {
 				name: 'a thing',
 				details: {
-					weight: 0
-				}
+					weight: 0,
+				},
+				notes: ['a', 'b', 'c']
 			}
 		}
 	};
@@ -23,7 +24,8 @@ test('merge 1', t => {
 				details: {
 					weight: 17.4,
 					material: 'plastic'
-				}
+				},
+				notes: ['d', 'e', 'f']
 			}
 		}
 	};
@@ -36,7 +38,8 @@ test('merge 1', t => {
 				details: {
 					weight: 17.4,
 					material: 'plastic'
-				}
+				},
+				notes: ['d', 'e', 'f']
 			}
 		}
 	};
